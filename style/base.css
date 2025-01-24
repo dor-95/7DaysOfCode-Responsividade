@@ -25,4 +25,7 @@ html {
 body {
     background-image: linear-gradient(to bottom right, #F8F4FF, #EFF0F4);
     padding: 0 1.6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

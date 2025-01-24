@@ -2,6 +2,7 @@ header {
     display: flex;
     gap: 1.5rem;
     padding: 4rem 0;
+    width: 32.8rem;
 }
 
 header img {
